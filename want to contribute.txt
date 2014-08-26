@@ -1,0 +1,12 @@
+my name is ztoro code
+
+i want contribute in you API ask.fm
+i already write several module in your library
+the module is:
+-search name
+-post ask question to search name
+-list in file name that already asked
+-and more
+
+i hope you will give me permission to contribute
+i will pull the script as soon as possible after i test it
